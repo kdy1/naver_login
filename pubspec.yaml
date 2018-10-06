@@ -1,5 +1,5 @@
 name: naver_login
-description: 네이버 어아디로 로그인
+description: A Flutter plugin to authenticate users with naver account.
 version: 0.0.1
 author:
 homepage:
